@@ -26,6 +26,7 @@
           <e p="Overlay.cs" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="README.md" t="Include" />
         <e p="Resources" t="Include">
           <e p="img.jpg" t="Include" />
           <e p="manifest.vrmanifest" t="Include" />
