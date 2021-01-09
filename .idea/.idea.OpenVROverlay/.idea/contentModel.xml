@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jeppe\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jeppe\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_OpenVROverlay.257527820.00" t="ExcludeRecursive" />
+    <e p="D:\jeppe\Documents\Rider Projects\OpenVROverlay" t="IncludeFlat">
+      <e p="OpenVROverlay" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Game.cs" t="Include" />
+        <e p="NotificationOverlay.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="OpenVROverlay.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="openvr_api.cs" t="Include" />
+        <e p="openvr_api.dll" t="Include" />
+        <e p="OpenVROverlay.csproj" t="IncludeRecursive" />
+        <e p="OVRUtils" t="Include">
+          <e p="Application.cs" t="Include" />
+          <e p="Exceptions" t="Include">
+            <e p="OpenVRSystemException.cs" t="Include" />
+          </e>
+          <e p="Overlay.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="img.jpg" t="Include" />
+          <e p="manifest.vrmanifest" t="Include" />
+        </e>
+        <e p="shader.vert" t="Include" />
+      </e>
+      <e p="OpenVROverlay.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

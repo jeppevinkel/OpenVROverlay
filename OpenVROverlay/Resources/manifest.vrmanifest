@@ -1,0 +1,16 @@
+{
+	"source": "twitch_message_overlay",
+	"applications": [{
+		"app_key": "twitch_message_overlay",
+		"launch_type": "binary",
+		"binary_path_windows": "..\\OpenVROverlay.exe",
+		"is_dashboard_overlay": true,
+
+		"strings": {
+			"en_us": {
+				"name": "Twitch Chat Overlay",
+				"description": "Shows you Twitch chat."
+			}
+		}
+	}]
+}
